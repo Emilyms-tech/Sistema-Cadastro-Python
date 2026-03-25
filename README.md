@@ -6,7 +6,9 @@ Esse projeto foi desenvolvido com o objetivo de praticar lógica de programaçã
 A ideia foi criar um sistema simples de cadastro e login, com os dados sendo salvos em um arquivo `.txt`, para que não se percam ao fechar o programa.
 
 ---
+## Exemplo de uso
 
+![Sistema funcionando](print_cadastro.jpeg)
 ## Funcionalidades
 
 * Cadastro de usuários
